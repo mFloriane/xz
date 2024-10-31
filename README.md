@@ -305,4 +305,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 # VI. REFERENCES
 
  + SALES DATA LINK: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data 
- + BREAST CANCER WISCONSIN: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data 
+ + BREAST CANCER WISCONSIN: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+ + 
+ ![image](https://github.com/user-attachments/assets/06c89270-544f-4b06-9b1b-e6c9d516bcf9)
+
